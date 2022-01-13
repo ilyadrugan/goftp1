@@ -1,4 +1,4 @@
-package goftp
+package goftp1
 
 import "testing"
 
