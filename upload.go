@@ -1,5 +1,5 @@
 // Package goftp upload helper
-package goftp
+package goftp1
 
 import (
 	"os"
