@@ -24,4 +24,4 @@ THE SOFTWARE.
 
 // ftp client library with Walk and TLS support
 
-package goftp
+package goftp1
