@@ -1,4 +1,4 @@
-package goftp
+package goftp1
 
 // FTP Status codes, defined in RFC 959
 const (
