@@ -1,7 +1,7 @@
 package ftp
 
 import (
-	"github.com/dutchcoders/goftp"
+	"github.com/ilyadrugan/goftp1"
 	"strings"
 )
 
